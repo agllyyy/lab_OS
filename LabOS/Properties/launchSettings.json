@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LabOS": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\kakawka\\source\\repos\\LabOS"
+    }
+  }
+}

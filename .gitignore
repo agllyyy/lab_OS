@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+*.vsidx
+*.suo
+*.user
+*.sqlite
+ProjectEvaluation/
+v18/
